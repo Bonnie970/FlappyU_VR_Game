@@ -1,31 +1,37 @@
 # McHacks2018-FlappyU
 VR version of Flappy Bird with actual flappy moving
+Whole project is too big for github, download from Google Drive: https://drive.google.com/drive/folders/1GYxwXiQiVrt42BOdSSxB2ZMxccnKKRI6?usp=sharing 
 
 ## Inspiration
-Have you ever been **addictive** to the super duper popular game **Flappy Bird**? We all are! 
+Have you ever been **addicted** to the super duper popular game **Flappy Bird**? We all have been! We have also been always fascinated by the development process of VR games. 
 
-We are also curious about VR game developing after playing so many VR games! 
 
 ## What it does
 This hacking pushes Flappy Bird to another level with HTC Vive! 
 
-**You, the bird**, facing obstacles, flying for real **with your arms**! 
+In this game, you, *the bird* face obstacles, which you need to pass from between them, by flying **with your own arms**!!! 
 
-The stunning view of landscapes passes by, **nothing stops you from moving forward !!!** 
+During the game, the stunning view of our landscapes passes by, and **nothing stops you from moving forward !!!** 
+
+Demo videos: 
+https://www.youtube.com/watch?v=Cx2HTIFXHVo
+https://www.youtube.com/watch?v=kRRZ7msng7I 
 
 ## How I built it
 This VR game was developed using Unity and SteamVR SDK for HTC Vive.  
 
 ## Challenges I ran into
-No one in our team has game developing experience, but we installed Unity and learned SteamVR SDK on site to make this game happen! 
+No one in our team had game development experience, but we installed Unity and learned SteamVR SDK from online resources to bring Flappy Bird to life! 
 
 ## Accomplishments that I'm proud of
-We are very proud the game is well developed in such a short time and we were able to learn and integrate a **brandly new** technology with our passion and braveness!
-We are also proud of our teamwork. Everyone in our team distributed a lot and made commitment to their tasks. 
+We are very proud of our game, which we developed within a short amount of time. We managed to learn and integrate a **brand new** technology with our passion! Also, we couldn’t be more proud of our teamwork, which was the key for successfully developing our game. Everyone in our team made equal contributions and were dedicated to accomplishing the project tasks. 
+
 
 ## What I learned
-We learned how to use Unity environment for VR games 3D model building, landscape design, and sound strimming. We also developed teamwork skills and had so much fun in McHacks! 
+We learned about how to use Unity for VR games alongside 3D modelling including landscape design, as well as sound streaming. We also built upon our teamwork skills and we had a lot of fun at McHacks! 
 
 
 ## What's next for FlappyU
-We are planning to publish FlappyU on Steam VR game website! 
+We are planning to publish FlappyU on Steam! 
+
+
