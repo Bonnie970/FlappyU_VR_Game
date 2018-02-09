@@ -1,5 +1,8 @@
 # McHacks2018-FlappyU
 VR version of Flappy Bird with actual flappy moving
+
+Project originally posted on Devpost: https://devpost.com/software/flappyu 
+
 Whole project is too big for github, download from Google Drive: https://drive.google.com/drive/folders/1GYxwXiQiVrt42BOdSSxB2ZMxccnKKRI6?usp=sharing 
 
 ## Inspiration
